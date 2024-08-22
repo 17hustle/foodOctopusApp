@@ -1,0 +1,15 @@
+.navbar-brand {
+    color: #ff6347; /* Tomato color */
+    font-size: 100px; /* Increased font size */
+    text-decoration: firebrick;
+    font-weight: bold; /* Ensures the font is bold */
+    font-family: 'Arial Black', Gadget, sans-serif; /* Example of a bold font */
+  }
+
+  .search-bar{
+    width: 1000px;
+  }
+  
+#carousel{
+  max-height: 400px;
+}
